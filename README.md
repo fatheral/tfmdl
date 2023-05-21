@@ -1,5 +1,5 @@
 # Theoretic Fundamentals of Machine and Deep Learning
-Materials of Lecture course provided in Winter/Spring 2023 in two largest Russia's Technical Universities:
+Materials of Lecture course that I taught in Winter/Spring 2023 in two largest Russia's Technical Universities:
 * [Lomonosov Moscow State University](https://www.msu.ru/en/) (Faculty of Mechanics and Mathematics) - under the name "Introduction to Machine and Deep Learning Theory"
 * [Moscow Institute of Physics and Technology](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) (Master's program "Methods and technologies of artificial intelligence") - under the name "Introduction to Deep Learning Theory"
 

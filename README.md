@@ -3,10 +3,10 @@ Materials of Lecture course provided in Winter/Spring 2023 in two largest Russia
 * [Lomonosov Moscow State University](https://www.msu.ru/en/) (Faculty of Mechanics and Mathematics) - under the name "Introduction to Machine and Deep Learning Theory"
 * [Moscow Institute of Physics and Technology](https://en.wikipedia.org/wiki/Moscow_Institute_of_Physics_and_Technology) (Master's program "Methods and technologies of artificial intelligence") - under the name "Introduction to Deep Learning Theory"
 
-# Course overview
+## Course overview
 Deep learning is a young (approximate date of origin is 2011-2012), but actively developing area of machine learning, which is characterized primarily by the use of neural networks with a large (hence the word “_deep_” in the name) number of layers in their architecture. Initially, deep learning was a predominantly empirical field of knowledge in which new findings were primarily found experimentally. Subsequently, many findings began to receive theoretical justification, and somewhere theory is now even ahead of practice. The course will cover the basic concepts that are used in the theoretical consideration of empirical methods of machine and deep learning - the reasoning behind of loss functions, working with data distributions, theory of generative models, adversarial learning, stability of neural networks, and limit theorems.
 
-# Course content
+## Course content
 * Empirical risk and its approximation
   * The basic concepts of measuring the quality of the work of a machine learning algorithm are empirical risk and its approximation. Differentiability. Stochastic gradient descent. Regularization. Probabilistic meaning of loss functions on the example of maximum likelihood and a posteriori probability.
 * Basic loss functions. Its evolution based the problem of face recognition
@@ -42,6 +42,24 @@ Deep learning is a young (approximate date of origin is 2011-2012), but actively
 | 09            | [Certified Robustness I: Randomized Smoothing](/lectures/lecture09-CertRob_I_RS.pdf)    | Certified Robustness I: definitions of Certified Robustness, connection to Lipschitzness, Randomized Smoothing and its variants |  [record09](https://www.youtube.com/watch?v=Rg4OJXQE3K4)  |
 | 10            | [Certified Robustness II: High Dimensions and Semantic Transformations](/lectures/lecture10-CertRob_II_HighDim.pdf)    | Certified Robustness II: recap of Certified Robustness, Ablations on base classifier/norm of perturbation/smoothing distribution, Certification in High Dimensional case, Certification of Semantic Perturbations, Application to different Computer Vision tasks |  [record10](https://www.youtube.com/watch?v=kuV1_YFpGo0)  |
 | 11            | [Neural Tangent Kernel](/lectures/lecture11-NTK.pdf)    | Neural Tangent Kernel: Lazy regime of training, GD as PDE, NTK and CNTK, NTK convergence rates |  [record11](https://www.youtube.com/watch?v=cN4emH7_EIM)  | 
+
+## <a name="lit" /> Bibliography
+1. [Machine Learning Lecture Course](http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29) on http://www.machinelearning.ru from Vorontsov K.V.
+2. Hastie, T. and Tibshirani, R. and Friedman, J. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf), 2nd edition, Springer, 2009.
+3. Bishop, C.M. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006.
+4. Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
+5. Matus Telgarsky, Deep learning theory lecture [notes](https://mjt.cs.illinois.edu/dlt/index.pdf), 2021
+6. Sanjeev Arora et al., Theory of Deep learning book [draft](https://www.dropbox.com/s/smkp4vasbiszhw4/DLbook.pdf?dl=0), 2020
+
+## <a name="links" /> Useful links 
+### Introduction to machine learning
+* Homemade Machine Learning: [github repo](https://github.com/trekhleb/homemade-machine-learning)
+* Machine learning: [Course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on the site https://www.coursera.org
+
+### Theoretic Courses
+* Foundations of Deep Learning: [Course](https://uclaml.github.io/CS269-Spring2021/) at UCLA
+* Deep learning theory: [Course](https://mjt.cs.illinois.edu/dlt/) at UIUC
+* Theoretical Deep Learning: [Course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/) at Princeton
 
 # License
 **Creative Commons**: BY Attribution-NonCommercial-ShareAlike 4.0 International ([**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))

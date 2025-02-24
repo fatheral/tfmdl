@@ -1,3 +1,7 @@
+# Update
+* Added theoretical problems to [problems](/problems/)
+* Added possible projects to [projects](/projects/)
+
 # Theoretic Fundamentals of Machine and Deep Learning
 Materials of Lecture course that I taught in Winter/Spring 2023 in two largest Russia's Technical Universities:
 * [Lomonosov Moscow State University](https://www.msu.ru/en/) (Faculty of Mechanics and Mathematics) - under the name "Introduction to Machine and Deep Learning Theory"
